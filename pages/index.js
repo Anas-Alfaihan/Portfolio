@@ -45,7 +45,6 @@ export default function Home() {
                                 <a
                                     href="https://drive.google.com/file/d/1PHZYKk9o_YQNrDtaoHsEtLYimpGl3zwM/view?usp=sharing"
                                     className=" bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8"
-                                    target="_blank"
                                 >
                                     Resume
                                 </a>
@@ -110,14 +109,14 @@ export default function Home() {
                         </h3>
                         <span className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
                             Whether you need a custom website or a full-scale
-                            web application, I'm dedicated to delivering{' '}
+                            web application, I&apos;m dedicated to delivering{' '}
                             <span className="text-teal-500">high-quality</span>{' '}
                             code that meets your needs and exceeds your{' '}
                             <span className="text-teal-500">expectations</span>
                             .Take a look at some of my recent projects below,
                             and feel free to reach out if you have any questions
-                            or would like to discuss your project further. Let's
-                            build something amazing together!
+                            or would like to discuss your project further.
+                            Let&apos;s build something amazing together!
                         </span>
                     </div>
                     <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
