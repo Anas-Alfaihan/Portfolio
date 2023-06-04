@@ -1,6 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
-}
+    basePath: '/Portfolio',
+    assetPrefix: `/${process.env.GITHUB_REPOSITORY.split('/')[1]}/`,
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
